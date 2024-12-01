@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="general-suite">
+    <test name="tests">
+        <classes>
+            <class name="tests.frontend.UserTest"/>
+            <class name="tests.backend.ProductAPITest"/>
+        </classes>
+    </test> <!-- Default test -->
+
+</suite> <!-- Default suite -->

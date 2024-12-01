@@ -1,0 +1,7 @@
+.gradle/
+build/
+.idea/
+screenshots/
+.env
+local.properties
+.idea

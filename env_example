@@ -1,0 +1,2 @@
+HOST_URL="http://localhost:4444/wd/hub"
+BACKEND_URL="https://dummyjson.com/products/add"
